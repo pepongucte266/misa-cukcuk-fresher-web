@@ -1,0 +1,314 @@
+.m-icon {
+  margin: 0 auto;
+  background-image: url(../../assets/img/iconMenu.png);
+}
+
+.m-icon-toolbar {
+  background-image: url(../../assets/img/IconSprite.png);
+  background-color: transparent;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
+
+.m-icon-pagination {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position:  center center;
+}
+
+.m-icon-menu {
+  width: 42px;
+  height: 24px;
+}
+
+.m-icon-overview {
+  width: 24px;
+  height: 24px;
+  background-position: 0 533px;
+}
+
+.m-icon-report {
+  width: 24px;
+  height: 24px;
+  background-position: 0 342px;
+}
+
+.m-icon-purcha {
+  width: 24px;
+  height: 24px;
+  background-position: 0 159px;
+}
+
+.m-icon-stock {
+  width: 24px;
+  height: 24px;
+  background-position: 0 495px;
+}
+
+.m-icon-cast {
+  width: 24px;
+  height: 24px;
+  background-position: 0 454px;
+}
+
+.m-icon-bank {
+  width: 24px;
+  height: 24px;
+  background-position: 0 1px;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/icon-deposit.png);
+  background-repeat: no-repeat;
+  margin-left: 11px;
+}
+
+.m-icon-cost {
+  width: 24px;
+  height: 24px;
+  background-position: 0 1px;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/icon-cost.png);
+  background-repeat: no-repeat;
+  margin-left: 11px;
+}
+
+.m-icon-discount {
+  width: 24px;
+  height: 24px;
+  background-position: 0 416px;
+}
+
+.m-icon-menufood {
+  width: 24px;
+  height: 24px;
+  background-position: 0 1px;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/vector-smart-object.png);
+  background-repeat: no-repeat;
+  margin-left: 11px;
+}
+
+.m-icon-dictionary {
+  width: 24px;
+  height: 24px;
+  background-position: 0 380px;
+}
+
+.m-icon-cancelinvoice {
+  width: 24px;
+  height: 24px;
+  background-position: 0 1px;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/cancel-invoice.png);
+  background-repeat: no-repeat;
+  margin-left: 11px;
+}
+
+.m-icon-setting {
+  width: 24px;
+  height: 24px;
+  background-position: 0 301px;
+}
+
+.m-icon-application {
+  width: 32px;
+  height: 32px;
+  background: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/ic_menu_list_connect_application.svg)
+    no-repeat;
+}
+
+.m-icon-web {
+  height: 25px;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/ic_Web.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.m-icon-misa-lomas {
+  width: 24px;
+  height: 24px;
+  background: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/Logo_MISALomas.svg)
+    no-repeat;
+}
+
+.m-icon-knowledge {
+  width: 24px;
+  height: 24px;
+  background: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/academy.svg)
+    no-repeat;
+}
+
+.m-icon-help {
+  width: 24px;
+  height: 24px;
+  background: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/iconHelp.png)
+    no-repeat;
+}
+
+.m-icon-subscriber {
+  width: 24px;
+  height: 20px;
+  background: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/icon-subscriber.png)
+    no-repeat;
+}
+
+.m-icon-viewMail {
+  width: 16px;
+  height: 16px;
+  background-image: url(https://misatest06.cukcuk.vn/resources/Image/viewEmail.png);
+}
+
+.m-icon-toolbar-add {
+  height: 16px;
+  width: 16px;
+  background-position: 0 -2648px !important;
+}
+
+.m-icon-toolbar-duplicate {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -1888px !important;
+}
+
+.m-icon-toolbar-edit {
+  background: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/Edit16.png)
+    no-repeat 50% 50% !important;
+  width: 16px;
+  height: 16px;
+  background-color: transparent;
+  background-repeat: no-repeat;
+}
+
+.m-icon-toolbar-delete {
+  width: 16px;
+  height: 16px;
+  background-position: 0-2680px !important;
+}
+
+.m-icon-toolbar-sort {
+  background: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/item-order.png)
+    no-repeat center center;
+  background-size: contain;
+  width: 20px !important;
+  height: 16px;
+}
+
+.m-icon-toolbar-refresh {
+  width: 16px !important;
+  height: 16px !important;
+  background-position: 0-2584px !important;
+}
+
+.m-icon-toolbar-help {
+  width: 16px !important;
+  height: 16px !important;
+  background-position: 0-1600px !important;
+}
+
+.m-icon-toolbar-folder {
+  width: 16px !important;
+  height: 16px !important;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/folder-open.gif);
+}
+
+.m-icon-toolbar-import {
+  width: 16px !important;
+  height: 16px !important;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/Import16.png);
+}
+
+.m-icon-toolbar-export {
+  width: 16px !important;
+  height: 16px !important;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/excel_97_24.png);
+}
+
+.m-icon-toolbar-copy {
+  width: 16px !important;
+  height: 16px !important;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/Copy16.png);
+}
+
+.m-icon-toolbar-image {
+  width: 16px !important;
+  height: 16px !important;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/image16.png);
+}
+
+.m-icon-toolbar-price {
+  width: 16px !important;
+  height: 16px !important;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/price16.png);
+}
+
+.m-icon-toolbar-stpv {
+  width: 16px !important;
+  height: 16px !important;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/image/STPV.png);
+}
+
+.m-icon-toolbar-save {
+  width: 16px !important;
+  height: 16px !important;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/Save16.png);
+}
+
+.m-icon-toolbar-saveadd {
+  width: 16px !important;
+  height: 16px !important;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/SaveAdd16.png);
+}
+
+.m-icon-toolbar-cancel {
+  width: 16px !important;
+  height: 16px !important;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/Disable16.png);
+}
+
+.m-icon-add {
+  width: 22px;
+  height: 22px;
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/add-blue-icon.png)!important;
+  background-position: center center!important;
+}
+
+.m-icon-filter-selected {
+  width: 16px;
+  height: 16px;
+  background: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/table-circle-blue16.png) no-repeat left center;
+}
+
+.m-icon-fistPage {
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/images/grid/page-first.png);
+}
+
+.m-icon-prevPage {
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/images/grid/page-prev.png);
+}
+
+.m-icon-nextPage {
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/images/grid/page-next.png);
+}
+
+.m-icon-lastPage {
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/images/grid/page-last.png);
+}
+
+.m-icon-refresh {
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/images/grid/refresh.png);
+}
+
+.m-icon-info-favorite {
+  background: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/icon-info32-2.png) no-repeat center;
+  width: 32px;height: 32px;
+}
+
+.m-icon-search {
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/images/form/search-trigger.png);
+  background-position: -66px center;
+  width: 22px;height: 22px;
+  cursor: pointer;
+}
+
+.m-icon-question {
+  background-image: url(https://cdn2-new.cukcuk.vn/QLNH/resources/Image/icon-question.png) ;
+  width: 32px;
+  height: 32px;
+}
+

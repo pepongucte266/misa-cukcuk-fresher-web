@@ -1,0 +1,21 @@
+.m-navbar {
+  background-color: #0973B9;
+}
+
+.m-navbar-item {
+  color: #fff !important;
+  height: 40px !important;
+  min-height: 40px !important;
+  padding-left: 0 !important;
+  align-items: center;
+  font-size: 12px !important;
+}
+
+.m-navbar-item:hover {
+  background-color: #EB7728;
+}
+
+.m-navbar-item-active {
+  background-color: #0199fc;
+}
+

@@ -1,0 +1,152 @@
+.m-page-content {
+  padding: 0 8px;
+  height: calc(100vh - 55px);
+  overflow: hidden;
+}
+
+.m-page-body {
+  overflow-y: auto;
+}
+
+.m-page-header {
+  justify-content: space-between;
+  padding: 14px 0;
+}
+
+.m-page-header-title {
+  font-size: 22px;
+  line-height: 24px;
+  font-weight: 500;
+}
+
+.m-page-header-btn {
+  width: 100px !important;
+  height: 28px !important;
+  min-height: 28px !important;
+  padding: 0 !important;
+  border: 1px solid #bbb !important;
+}
+
+.m-btn-text {
+  font-size: 12px;
+  font-weight: normal;
+  padding: 0 5px;
+}
+
+/* toolbar */
+
+.m-page-toolbar {
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #e3e4e6);
+  height: 27px;
+  padding: 2px;
+}
+
+.m-toolbar-item {
+  height: 22px;
+  box-sizing: border-box;
+  cursor: pointer;
+  border: 1px solid transparent;
+  padding-left: 4px;
+  margin-right: 9px;
+  flex-wrap: nowrap !important;
+}
+
+.m-toolbar-item:hover {
+  border: 1px solid #0072bc;
+  background-color: #fff;
+}
+
+.m-toolbar-item:active {
+  border: 1px solid #0072bc;
+  background-color: #cdced1;
+}
+
+.m-toolbar-item-icon {
+  margin: 0;
+}
+
+.m-toolbar-item-text {
+  font-size: 12px;
+  padding: 0 5px;
+}
+
+/* MenuDetail */
+.m-menu-detail {
+  padding: 4px 0 0 0 !important;
+  display: flex;
+}
+
+.m-menu-detail-form {
+  width: 506px !important;
+  padding-top: 10px;
+  margin-right: 8px !important;
+}
+
+.m-form-row {
+  display: flex;
+  align-items: center;
+}
+
+.m-form-row.textarea {
+  align-items: flex-start;
+}
+
+.m-form-row:not(:first-child) {
+  margin-top: 6px;
+}
+
+.m-form-row-label {
+  width: 125px;
+  font-size: 13px;
+  line-height: 17px;
+}
+
+.m-form-row .q-input,
+.m-form-row .q-field__control {
+  height: 24px !important;
+  width: 100% !important;
+  max-width: 397px !important;
+}
+
+.m-form-row .q-field__control {
+  padding: 0px 5px !important;
+}
+
+.m-form-row .q-field__native {
+  padding: 3px 0 !important;
+}
+
+.m-row-input {
+  /* font-size: 12px !important; */
+  line-height: 15px !important;
+}
+
+.m-checkbox-item {
+  height: 24px !important;
+}
+
+.m-checkbox-item .q-checkbox__label {
+  font-size: 12px !important;
+}
+
+.m-checkbox-item .q-checkbox__bg {
+  border: 1px solid #bbb;
+  top: 29% !important;
+}
+
+.m-forn-checkbox-group {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 5px;
+  width: calc(100% - 131px) !important;
+}
+
+/* fieldset avatar */
+.m-menu-detail-avatar {
+  width: 210px;
+  height: 254px;
+  padding: 0 8px 8px 8px;
+  border: 1px solid #afafaf;
+  box-sizing: border-box;
+}
+

@@ -1,0 +1,48 @@
+.m-form-row .q-select,
+.m-form-row .q-select .q-field__after,
+.m-form-row .q-select .q-field__control,
+.m-form-row .q-select .q-field__control .q-field__append {
+  height: 24px !important;
+  min-height: 24px !important;
+}
+
+.m-form-row .q-select .q-field__control .q-field__native {
+  min-height: 24px !important;
+  flex-wrap: nowrap !important;
+}
+
+.m-form-row .q-select .q-field__control .q-field__native span {
+  white-space: nowrap !important;
+}
+
+.m-form-row .q-field__append,
+.m-form-row .q-field__after {
+  height: 24px !important;
+  min-height: 24px !important;
+  cursor: pointer;
+}
+
+.m-form-row .q-field .q-field__inner {
+  cursor: text;
+}
+
+.m-combobox-popup .q-item,
+.m-combobox-popup .q-item .q-focus-helper {
+  height: 24px !important;
+  min-height: 24px !important;
+  background-color: #fff;
+}
+.m-combobox-popup .q-item:hover,
+.m-combobox-popup .q-item .q-focus-helper:hover {
+  background-color: #d6e8f6 !important;
+}
+
+.m-favorite-select .q-field {
+  width: 472px !important;
+}
+
+.m-form-row.m-favorite-select .q-field .q-field__control {
+  width: 100% !important;
+  margin: 0 !important;
+  max-width: 100% !important;
+}
